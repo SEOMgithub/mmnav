@@ -49,10 +49,11 @@ body{ font-family:microsoft yahei; background:#edeae1; color:#333;padding-bottom
 .xljc2 .buttonopen{width:50%;height:45px;text-align:center; line-height:26px; border:none; cursor:pointer; position:absolute; top:195px; margin-left:-80px; transition:all 0.4s;font-size: 1.8rem;border-radius:10px;}
 .xljc2 .testing{  margin:0% auto;}
 .xljc2 li:hover .buttonopen{ top:195px; background:#fff; border-radius:20px; text-align:center; color:#001d59}
+.xljc2 h2{font-size: 3rem;}
 
 /*推荐浏览器*/
 .linetit{ height:55px; line-height:80px; padding:10px 0; width:1000px; margin:auto}
-.linetit.linetit4{ background:url(../images/tit_04.png)no-repeat 0 center}
+.linetit4 h2{font-size:3rem;}
 .linetit.linetit4 span{ margin: 0 0 0 320px;font-size: 1.2rem;}
 .browserbox{ width:1000px; margin:0px auto 0; overflow:hidden;background:#fff; padding:10px 0;}
 .browserbox ul{ margin:0 0 0 0px; }
